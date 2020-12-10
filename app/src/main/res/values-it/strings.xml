@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Il convertitore di temperatura</string>
+    <string name="temperature_txt">Inserisci una temperatura</string>
+    <string name="temperature_insert"></string>
+    <string name="type_temperature">Scegli un metodo di conversione</string>
+    <string name="button">Calcola</string>
+    <string name="result_txt">Il risultato</string>
+    <string name="result"></string>
+    <string name="language">Cambia una lingua</string>
+    <string name="button_language">Italiano</string>
+
+    <string-array name="options_temperature">
+        <item>Da Celsius [°C] a Fahrenheit [°F]</item>
+        <item>Da Kelwin [K] a Fahrenheit [°F]</item>
+        <item>Da Fahrenheit [°F] a Celsius [°C]</item>
+        <item>Da Celsius [°C] a Kelwin [K]</item>
+        <item>Da Kelwin [K] a Celsius [°C]</item>
+        <item>Da Fahrenheit [°F] a Kelwin [K]</item>
+    </string-array>
+
+    <string-array name="options_language">
+        <item>Polski</item>
+        <item>English</item>
+        <item>Italiano</item>
+    </string-array>
+</resources>

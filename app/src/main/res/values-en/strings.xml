@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="temperature_txt">Enter temperature</string>
+    <string name="temperature_insert"></string>
+    <string name="type_temperature">Choose temperatures to convert</string>
+    <string name="button">Calculate</string>
+    <string name="result_txt">Result</string>
+    <string name="result"></string>
+    <string name="language">Change language</string>
+    <string name="button_language">English</string>
+
+    <string-array name="options_temperature">
+        <item>Celsius [°C] to Fahrenheit [°F]</item>
+        <item>Kelwin [K] to Fahrenheit [°F]</item>
+        <item>Fahrenheit [°F] to Celsius [°C]</item>
+        <item>Celsius [°C] to Kelwin [K]</item>
+        <item>Kelwin [K] to Celsius [°C]</item>
+        <item>Fahrenheit [°F] to Kelwin [K]</item>
+    </string-array>
+
+    <string-array name="options_language">
+        <item>Polski</item>
+        <item>English</item>
+        <item>Italiano</item>
+    </string-array>
+</resources>
